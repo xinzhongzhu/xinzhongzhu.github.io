@@ -1,11 +1,7 @@
-title: Xinwang Liu's Homepage
+title: Xinzhong Zhu's Homepage
 author: GitHub User
 description: > # this means to ignore newlines until "show_exerpts:"
-  Professor with the school of computer, National 
-  University of Defense Technology (NUDT), Changsha, 
-  Hunan, China. My research interests include kernel 
-  learning, multi-view learning, unsupervised representation 
-  learning and some related topics. 
+  Professor with the College of Mathematics, Physics and Information Engineering, Zhejiang Normal University, Jinhua 321004, China, and also with the Research Institute of Ningbo Cixing Co. Ltd, Ningbo 315336, China.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -13,15 +9,14 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Xinwang Liu
+  name: Xinzhong Zhu
   tagline: Professor
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    github:  xinwangliu
-    google: citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate
+    github:  xinzhongzhu
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
