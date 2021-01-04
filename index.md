@@ -3,17 +3,13 @@ layout: page
 <title>Xinzhong Zhu: Homepage</title>
 ---
 
-# Brief Bio：
+# Contact Information:
 
-X. Zhu is with the College of Mathematics, Physics and Information Engineering, Zhejiang Normal University, Jinhua 321004, China, and also with the Research Institute of Ningbo Cixing Co. Ltd, Ningbo 315336, China. 
-
-Xinzhong Zhu received the PhD degree from XIDIAN University and MS degree from National University of Defense Technology (NUDT), China. He is a professor with the College of Mathematics and Computer Science, Zhejiang Normal University, and also the president of Research Institute of Ningbo Cixing Co. Ltd, China. His research interests include machine learning, deep learning, computer vision, manufacturing informatization, robotics and system integration, and intelligent manufacturing. He is a member of the ACM and certified as CCF senior member. Dr. Zhu has published more than 30 peer-reviewed papers, including those in highly regarded journals and conferences such as the IEEE Transactions on Pattern Analysis and Machine Intelligence, the IEEE Transactions on Multimedia, the IEEE Transactions on Knowledge and Data Engineering, AAAI, IJCAI, etc. He served on the Technical Program Committees of IJCAI 2020 and AAAI 2020.
+Xinzhong Zhu is with the College of Mathematics, Physics and Information Engineering, Zhejiang Normal University, Jinhua 321004, China, and also with the Research Institute of Ningbo Cixing Co. Ltd, Ningbo 315336, China. 
 
 
 Please drop me a message if you also have interests with me by my email: <u>zxz@zjnu.edu.cn.</u>.
 
-
-</ol>
 
 # Selected Journal Papers:
 
@@ -143,4 +139,9 @@ Please drop me a message if you also have interests with me by my email: <u>zxz@
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ECCV' 1]</b></font> Melih Engin, Lei Wang, Luping Zhou, <b>Xinwang Liu</b>: <i><u>DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition</u></i>. <font color="green">ECCV 2018</font>: 629645. (CCF Rank B) <a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf">[PDF]</a></li></p>
 
 </ol>
+
+
+# Brief Bio：
+
+Xinzhong Zhu received the PhD degree from XIDIAN University and MS degree from National University of Defense Technology (NUDT), China. He is a professor with the College of Mathematics and Computer Science, Zhejiang Normal University, and also the president of Research Institute of Ningbo Cixing Co. Ltd, China. His research interests include machine learning, deep learning, computer vision, manufacturing informatization, robotics and system integration, and intelligent manufacturing. He is a member of the ACM and certified as CCF senior member. Dr. Zhu has published more than 30 peer-reviewed papers, including those in highly regarded journals and conferences such as the IEEE Transactions on Pattern Analysis and Machine Intelligence, the IEEE Transactions on Multimedia, the IEEE Transactions on Knowledge and Data Engineering, AAAI, IJCAI, etc. He served on the Technical Program Committees of IJCAI 2020 and AAAI 2020.
 
