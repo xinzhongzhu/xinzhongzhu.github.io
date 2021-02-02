@@ -8,7 +8,7 @@ layout: page
 Xinzhong Zhu is with the College of Mathematics, Physics and Information Engineering, Zhejiang Normal University, Jinhua 321004, China, and also with the Research Institute of Ningbo Cixing Co. Ltd, Ningbo 315336, China. 
 
 
-Please drop me a message by email: <u>zxz@zjnu.edu.cn.</u>
+Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com</u>
 
 
 # Selected Journal Papers:
