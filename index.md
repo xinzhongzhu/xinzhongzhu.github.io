@@ -42,9 +42,6 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
   
-  
-
-  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR' 2]</b></font>Siwei Wang, Xinwang Liu, Li Liu, Wenxuan Tu, <b>Xinzhong Zhu</b>, Jiyuan Liu, Sihang Zhou, En Zhu: <i><u>Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph</u></i>. <font color="green">CVPR 2022</font>. (CCF Rank A) </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 4]</b></font> Chang Tang, Xinwang Liu, <b>Xinzhong Zhu</b>, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: <i><u>MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) </li></p>
