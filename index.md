@@ -46,7 +46,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Complexity' 1]</b></font> <b>Xinzhong Zhu</b>*, Huiying Xu, Jianmin Zhao and Jie Tian*: <i><u>Automated Epileptic Seizure Detection in Scalp EEG Based on Spatial-Temporal Complexity</u></i>. <font color="green">Complexity</font> 12: 1-9 (2017) (SCI Q2) <a href = "https://miracle-fmh.github.io/doc/paper_ER_RadiomicsSig.pdf">[PDF]</a></li></p>
 
   
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA' 1]</b></font> Chang Tang#, <b>Xinzhong Zhu</b>#*, Jiajia Chen*, Pichao Wang, Xinwang Liu and Jie Tian: <i><u>Robust Graph Regularized Unsupervised Feature Selection</u></i>. <font color="green">Expert Systems With Applications (ESWA)</font> 96(12): 64-76 (2017) (SCI Q1) <a href = "https://miracle-fmh.github.io/doc/paper_ER_RadiomicsSig.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA' 1]</b></font> Chang Tang#, <b>Xinzhong Zhu</b>#*, Jiajia Chen*, Pichao Wang, Xinwang Liu and Jie Tian: <i><u>Robust Graph Regularized Unsupervised Feature Selection</u></i>. <font color="green">Expert Systems With Applications (ESWA)</font> 96(12): 64-76 (2017) (SCI Q1) <a href = "https://github.com/xinzhongzhu/xinzhongzhu.github.io/blob/master/document/Expert%20Systems%20With%20Applications%EF%BC%9ARobust%20Graph%20Regularized%20Unsupervised%20Feature%20Selection.pdf">[PDF]</a></li></p>
 
 
 
