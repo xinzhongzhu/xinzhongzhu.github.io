@@ -15,7 +15,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP' 2]</b></font>  Siwei Wang, <b>Xinzhong Zhu</b>, Xinwang Liu, Miaomiao Li, Huiying Xu, Feng Gao and En Zhu: "<i><u>Late Fusion Multi-view Clustering via Global and Local Alignment Maximization</u></i>". <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font> <a href = "https://github.com/wangsiwei2010/localized-latefusionalignment">[Code]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP' 2]</b></font>  Siwei Wang, <b>Xinzhong Zhu</b>*, Xinwang Liu, Miaomiao Li, Huiying Xu, Feng Gao and En Zhu: "<i><u>Late Fusion Multi-view Clustering via Global and Local Alignment Maximization</u></i>". <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font> <a href = "https://github.com/wangsiwei2010/localized-latefusionalignment">[Code]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP' 1]</b></font> Siwei Wang, Xinwang Liu, <b>Xinzhong Zhu</b>, Pei Zhang, Yi Zhang, Feng Gao and En Zhu: "<i><u>Fast Parameter-free Multi-view Subspace Clustering with Consensus Anchor Guidance</u></i>". <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TIP1.pdf">[PDF]</a></li></p>
   
