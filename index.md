@@ -47,7 +47,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 3]</b></font> Chang Tang, Xinwang Liu, <b>Xinzhong Zhu</b>, En Zhu, Zhigang Luo, Wen Gao: <i><u>CGD: Multi-view Clustering via Cross-view Graph Diffusion</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 2]</b></font> Xinwang Liu, <b>Xinzhong Zhu</b>, Miaomiao Li, Chang Tang, En Zhu, Jianping Yin, Wen Gao: <i><u>Efficient and Effective Incomplete Multi-view Clustering</u></i>. <font color="green">AAAI 2019</font>.(CCF Rank A) <a href = "https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4350/4228">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 2]</b></font> Xinwang Liu#, <b>Xinzhong Zhu</b>#*, Miaomiao Li, Chang Tang, En Zhu, Jianping Yin, Wen Gao: <i><u>Efficient and Effective Incomplete Multi-view Clustering</u></i>. <font color="green">AAAI 2019</font>.(CCF Rank A) <a href = "https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4350/4228">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 1]</b></font> Chang Tang, Xinwang Liu, <b>Xinzhong Zhu</b>, Lizhe Wang: <i><u>Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection</u></i>. <font color="green">AAAI 2019</font>.(CCF Rank A) <a href = "https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4443/4321">[PDF]</a></li></p>
 
