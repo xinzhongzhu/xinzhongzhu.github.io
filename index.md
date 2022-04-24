@@ -35,6 +35,14 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 1]</b></font> Chang Tang#*, <b>Xinzhong Zhu</b>#*, Xinwang Liu, Miaomiao Li, Pichao Wang, Changqing Zhang and Lizhe Wang: <i><u>Learning a Joint Affinity Graph for Multi-view Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font> 21(7): 1724-1736 (2019) (CCF Rank B) <a href = "https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8587193/">[PDF]</a></li></p>
 
+    
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ER' 1]</b></font> <b>Xinzhong Zhu</b>#*, Di Dong*, Zhendong Chen#, Mengjie Fang, Liwen Zhang, Jiangdian Song, Dongdong Yu, Yali Zang, Zhenyu Liu, Jingyun Shi* and Jie Tian: <i><u>Radiomic Signature as a Diagnostic Factor for Histologic Subtype Classification of Non-small Cell Lung Cancer</u></i>. <font color="green">European Radiology</font> 1(2): 2772–2778 (2018) (ESI Highly Cited Papers) <a href = "https://miracle-fmh.github.io/doc/paper_ER_RadiomicsSig.pdf">[PDF]</a></li></p>
+  
+  
+  
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 1]</b></font> <b>Xinzhong Zhu</b>#, Chang Tang#, Pichao Wang, Huiying Xu, Minhui Wang*, Jiajia Chen* and Jie Tian: <i><u>Saliency Detection via Affinity Graph Learning and Weighted Manifold Ranking</u></i>. <font color="green">Neurocomputing</font> 312(5): 239-250 (2018) (IF 4.44) <a href = "https://miracle-fmh.github.io/doc/paper_ER_RadiomicsSig.pdf">[PDF]</a></li></p>
+  
+  
 </ol>
 
 # Selected Conference Papers:
@@ -55,12 +63,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 1]</b></font> <b>Xinzhong Zhu</b>, Xinwang Liu, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: <i><u>Localized Incomplete Multiple Kernel k-means</u></i>. <font color="green">IJCAI 2018</font> 3271-3277. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2018/0454.pdf">[PDF]</a></li></p>
 
-  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ER' 1]</b></font> <b>Xinzhong Zhu</b>#*, Di Dong*, Zhendong Chen#, Mengjie Fang, Liwen Zhang, Jiangdian Song, Dongdong Yu, Yali Zang, Zhenyu Liu, Jingyun Shi* and Jie Tian: <i><u>Radiomic Signature as a Diagnostic Factor for Histologic Subtype Classification of Non-small Cell Lung Cancer</u></i>. <font color="green">European Radiology</font> 1(2): 2772–2778 (2018) (ESI Highly Cited Papers) <a href = "https://miracle-fmh.github.io/doc/paper_ER_RadiomicsSig.pdf">[PDF]</a></li></p>
-  
-  
-  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 1]</b></font> <b>Xinzhong Zhu</b>, Chang Tang, Pichao Wang, Huiying Xu, Minhui Wang, Jiajia Chen and Jie Tian: <i><u>Saliency Detection via Affinity Graph Learning and Weighted Manifold Ranking</u></i>. <font color="green">Neurocomputing</font> 312(5): 239-250 (2018) (IF 4.44) <a href = "https://miracle-fmh.github.io/doc/paper_ER_RadiomicsSig.pdf">[PDF]</a></li></p>
+
   
 
   
