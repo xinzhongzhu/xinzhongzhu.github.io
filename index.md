@@ -14,7 +14,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 # Selected Journal Papers:
 
 <ol>
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 2]</b></font> Changchong Sheng, <b>Xinzhong Zhu</b>#, Huiying Xu, Matti Pietikainen, Li Liu: <i><u>Adaptive Semantic-Spatio-Temporal Graph Convolutional Network for Lip Reading</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font> (Early Access, CCF Rank B) <a href = "https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8587193/">[PDF]</a></li></p>  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 2]</b></font> Changchong Sheng, <b>Xinzhong Zhu</b>#, Huiying Xu, Matti Pietikainen, Li Liu: <i><u>Adaptive Semantic-Spatio-Temporal Graph Convolutional Network for Lip Reading</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font> (Early Access, CCF Rank B) <a href = "https://github.com/xinzhongzhu/xinzhongzhu.github.io/blob/master/document/Adaptive_Semantic-Spatio-Temporal_Graph_Convolutional_Network_for_Lip_Reading.pdf">[PDF]</a></li></p>  
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP' 1]</b></font> Siwei Wang, Xinwang Liu*, <b>Xinzhong Zhu</b>, Pei Zhang, Yi Zhang, Feng Gao and En Zhu: "<i><u>Fast Parameter-free Multi-view Subspace Clustering with Consensus Anchor Guidance</u></i>". <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font> (CCF Rank A) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/main/document/TIP1.pdf">[PDF]</a></li></p>
   
