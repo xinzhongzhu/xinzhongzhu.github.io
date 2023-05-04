@@ -15,7 +15,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
   
-   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB' 1]</b></font>Jun Wang, Chang Tang*, Xinwang Liu, Wei Zhang, Wanqing Li, <b>Xinzhong Zhu</b>, Lizhe Wang, Albert Y. Zomaya: <i><u>Region-Aware Hierarchical Latent Feature Representation Learning-Guided Clustering for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Cybernetics </font> (<b>TCYB</b>) (CCF Rank B) </li></p> 
+   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB' 4]</b></font>Jun Wang, Chang Tang*, Xinwang Liu, Wei Zhang, Wanqing Li, <b>Xinzhong Zhu</b>, Lizhe Wang, Albert Y. Zomaya: <i><u>Region-Aware Hierarchical Latent Feature Representation Learning-Guided Clustering for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Cybernetics </font> (<b>TCYB</b>) (CCF Rank B) </li></p> 
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Computers in Biology and Medicine' 1]</b></font>Jun Chen, <b>Xinzhong Zhu</b>, Huawen Liu*: <i><u>A mutual neighbor-based clustering method and its medical applications</u></i>. <font color="green">Computers in Biology and Medicine</font> (SCI Q1) </li></p> 
   
