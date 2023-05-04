@@ -15,11 +15,11 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
   
-  
 
-   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AIMS Mathematics' 1]</b></font>Mahvish Samar, <b>Xinzhong Zhu</b>: <i><u>Structured conditioning theory for the total least squares problem with linear equality constraint and their estimation</u></i>. <font color="green">AIMS Mathematics</font> (SCI Q1)</li></p>  
+
+   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AIMS Mathematics' 1]</b></font>Mahvish Samar, <b>Xinzhong Zhu</b>: <i><u>Structured conditioning theory for the total least squares problem with linear equality constraint and their estimation</u></i>. <font color="green">AIMS Mathematics</font> (SCI Q1) <a href = "  https://xinzhongzhu.github.io/document/AIMS%20Mathematics.pdf">[PDF]</a></li></p>  
   
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Mathematics' 1]</b></font>Mahvish Samar, <b>Xinzhong Zhu</b>, Abdul Shakoor: <i><u>Conditioning Theory for Generalized Inverse C‡A and Their Estimations</u></i>. <font color="green">Mathematics</font> (SCI Q1)</li></p>  
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Mathematics' 1]</b></font>Mahvish Samar, <b>Xinzhong Zhu</b>, Abdul Shakoor: <i><u>Conditioning Theory for Generalized Inverse C‡A and Their Estimations</u></i>. <font color="green">Mathematics</font> (SCI Q1) <a href = "  https://xinzhongzhu.github.io/document/Mathematics.pdf">[PDF]</a></li></p>  
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 2]</b></font> Changchong Sheng, <b>Xinzhong Zhu</b>*, Huiying Xu, Matti Pietikainen, Li Liu: <i><u>Adaptive Semantic-Spatio-Temporal Graph Convolutional Network for Lip Reading</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font> (Early Access, CCF Rank B) <a href = "https://github.com/xinzhongzhu/xinzhongzhu.github.io/blob/master/document/Adaptive_Semantic-Spatio-Temporal_Graph_Convolutional_Network_for_Lip_Reading.pdf">[PDF]</a></li></p>  
 
