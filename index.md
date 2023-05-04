@@ -17,7 +17,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   
    <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB' 4]</b></font>Jun Wang, Chang Tang*, Xinwang Liu, Wei Zhang, Wanqing Li, <b>Xinzhong Zhu</b>, Lizhe Wang, Albert Y. Zomaya: <i><u>Region-Aware Hierarchical Latent Feature Representation Learning-Guided Clustering for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Cybernetics </font> (<b>TCYB</b>) (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/2023_5_1.pdf">[PDF]</a> </li></p> 
  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Computers in Biology and Medicine' 1]</b></font>Jun Chen, <b>Xinzhong Zhu</b>, Huawen Liu*: <i><u>A mutual neighbor-based clustering method and its medical applications</u></i>. <font color="green">Computers in Biology and Medicine</font> (SCI Q1)  <a href = "https://xinzhongzhu.github.io/document/2023_5_2.pdf">[PDF]</a> </li></p> 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Computers in Biology and Medicine' 1]</b></font>Jun Chen, <b>Xinzhong Zhu</b>, Huawen Liu*: <i><u>A mutual neighbor-based clustering method and its medical applications</u></i>. <font color="green">Computers in Biology and Medicine</font> (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/2023_5_2.pdf">[PDF]</a> </li></p> 
   
    <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Analytica Chimica Acta' 1]</b></font>Dawei Cao, Hechuan Lin, Ziyang Liu, Yuexing Gu, Weiwei Hua, Xiaowei Cao*, Yayun Qian*, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u>Serum-based surface-enhanced Raman spectroscopy combined with PCA-RCKNCN for rapid and accurate identification of lung cancer</u></i>. <font color="green">Analytica Chimica Acta</font> (SCI Q1)  <a href = "https://xinzhongzhu.github.io/document/2023_5_3.pdf">[PDF]</a> </li></p> 
   
@@ -79,9 +79,9 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS' 1]</b></font>Siwei Wang, Xinwang Liu*, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, <b>Xinzhong Zhu</b>, En Zhu: <i><u>Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS' 1]</b></font>Siwei Wang, Xinwang Liu*, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, <b>Xinzhong Zhu</b>, En Zhu: <i><u>Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/2023_5_6.pdf">[PDF]</a>  </li></p>
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR' 2]</b></font>Siwei Wang, Xinwang Liu*, Li Liu, Wenxuan Tu, <b>Xinzhong Zhu</b>, Jiyuan Liu, Sihang Zhou, En Zhu: <i><u>Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph</u></i>. <font color="green">CVPR 2022</font>. (CCF Rank A) </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR' 2]</b></font>Siwei Wang, Xinwang Liu*, Li Liu, Wenxuan Tu, <b>Xinzhong Zhu</b>, Jiyuan Liu, Sihang Zhou, En Zhu: <i><u>Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph</u></i>. <font color="green">CVPR 2022</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/2023_5_7.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 4]</b></font> Chang Tang, Xinwang Liu*, <b>Xinzhong Zhu</b>, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: <i><u>MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) </li></p>
 
