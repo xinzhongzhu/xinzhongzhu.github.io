@@ -15,6 +15,8 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
   
+
+  
    <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB' 4]</b></font> Jun Wang, Chang Tang*, Xinwang Liu, Wei Zhang, Wanqing Li, <b>Xinzhong Zhu</b>, Lizhe Wang, Albert Y. Zomaya: <i><u>Region-Aware Hierarchical Latent Feature Representation Learning-Guided Clustering for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Cybernetics </font> (<b>TCYB</b>) (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/2023_5_1.pdf">[PDF]</a> </li></p> 
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Computers in Biology and Medicine' 1]</b></font> Jun Chen, <b>Xinzhong Zhu</b>, Huawen Liu*: <i><u>A mutual neighbor-based clustering method and its medical applications</u></i>. <font color="green">Computers in Biology and Medicine</font> (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/2023_5_2.pdf">[PDF]</a> </li></p> 
@@ -26,7 +28,8 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Sensors and Actuators: B. Chemical' 1]</b></font> Dawei Cao, Hechuan Lin, Ziyang Liu, Jiaji Qiu, Shengjie Ge, Weiwei Hua, Xiaowei Cao, Yayun Qian, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u>PCA-TLNN-based SERS analysis platform for label-free detection and identification of cisplatin-treated gastric cancer</u></i>. <font color="green">Sensors and Actuators: B. Chemical</font> (SCI Q1)  <a href = "https://xinzhongzhu.github.io/document/2023_5_5.pdf">[PDF]</a> </li></p>  
 
-  
+     <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JMI' 1]</b></font> Michael Adjeisah, <b>Xinzhong Zhu</b>*: <i><u>
+     Multiplicative Perturbation Analysis for the Generalized Cholesky Block Downdating Problem</u></i>. <font color="green">Journal of Mathematical Inequalities </font> (<b>JMI</b>) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/jmi-17-34-pre.pdf">[PDF]</a> </li></p> 
   
    <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AIMS Mathematics' 1]</b></font> Mahvish Samar*, <b>Xinzhong Zhu</b>: <i><u>Structured conditioning theory for the total least squares problem with linear equality constraint and their estimation</u></i>. <font color="green">AIMS Mathematics</font> (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/AIMS%20Mathematics.pdf">[PDF]</a></li></p>  
   
