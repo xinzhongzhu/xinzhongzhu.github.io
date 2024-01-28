@@ -14,10 +14,17 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 # Selected Journal Papers:
 
 <ol>
-  
 
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 2]</b></font> Xinyu Zhang, Huiying Xu*, <b>Xinzhong Zhu</b>, Yuhang Chen: <i><u>Deep Contrastive Clustering via Hard Positive Sample Debiased</u></i>. <font color="green">Neurocomputing</font> 570: 127147. (2024) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/%5BNeuroComputing%5D%20Deep%20Contrastive%20Clustering%20via%20Hard%20positive%20sample%20Debiased.pdf">[PDF]</a></li></p>
+
+   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Information Fusion' 1]</b></font> Jiaji Qiu, Huiying Xu, <b>Xinzhong Zhu</b>*, and Michael Adjeisah: <i><u>Simple Multiple Kernel k-Means with Kernel Weight Regularization</u></i>. <font color="green">Information Fusion</font> 100: 101902. (2023) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/%5BInformation%20Fusion%5D%20Simple%20multiple%20kernel%20k-means%20with%20kernel%20weight%20regularization.pdf">[PDF]</a></li></p>
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Computational Intelligence and Neuroscience' 1]</b></font> Jiaji Qiu, Huiying Xu*, <b>Xinzhong Zhu</b>, and Michael Adjeisah: <i><u>Localized Simple Multiple Kernel K-Means Clustering with Matrix-Induced Regularization</u></i>. <font color="green">Computational Intelligence and Neuroscience</font> (2023) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/%5BComputational%20Intelligence%20and%20Neuroscience%5D%20Localized%20Simple%20Multiple%20Kernel%20K-Means%20Clustering%20with%20Matrix-Induced%20Regularization.pdf">[PDF]</a></li></p>
   
-   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB' 4]</b></font> Jun Wang, Chang Tang*, Xinwang Liu, Wei Zhang, Wanqing Li, <b>Xinzhong Zhu</b>, Lizhe Wang, Albert Y. Zomaya: <i><u>Region-Aware Hierarchical Latent Feature Representation Learning-Guided Clustering for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Cybernetics </font> (<b>TCYB</b>) (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/2023_5_1.pdf">[PDF]</a> </li></p> 
+  
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB' 4]</b></font> Jun Wang, Chang Tang*, Xinwang Liu, Wei Zhang, Wanqing Li, <b>Xinzhong Zhu</b>, Lizhe Wang, Albert Y. Zomaya: <i><u>Region-Aware Hierarchical Latent Feature Representation Learning-Guided Clustering for Hyperspectral Band Selection</u></i>. <font color="green">IEEE Transactions on Cybernetics </font> (<b>TCYB</b>) (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/2023_5_1.pdf">[PDF]</a> </li></p> 
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Computers in Biology and Medicine' 1]</b></font> Jun Chen, <b>Xinzhong Zhu</b>, Huawen Liu*: <i><u>A mutual neighbor-based clustering method and its medical applications</u></i>. <font color="green">Computers in Biology and Medicine</font> (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/2023_5_2.pdf">[PDF]</a> </li></p> 
   
@@ -80,6 +87,9 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 # Selected Conference Papers:
 
 <ol>
+
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EITCE' 1]</b></font> Jiaji Qiu, Huiying Xu*, and <b>Xinzhong Zhu</b>: <i><u>Data-Missing k-Means Based on Intra-Cluster and Inter-Cluster Distances</u></i>. <font color="green">EITCE</font> (2023) <a href = "https://xinzhongzhu.github.io/document/%5BEITCE%5D%20Data-missing%20k-means%20based%20on%20intra-cluster%20and%20inter-cluster.pdf">[PDF]</a></li></p>
+
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS' 1]</b></font> Siwei Wang, Xinwang Liu*, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, <b>Xinzhong Zhu</b>, En Zhu: <i><u>Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/2023_5_6.pdf">[PDF]</a>  </li></p>
   
