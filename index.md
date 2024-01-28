@@ -88,7 +88,6 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
 
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EITCE' 1]</b></font> Jiaji Qiu, Huiying Xu*, and <b>Xinzhong Zhu</b>: <i><u>Data-Missing k-Means Based on Intra-Cluster and Inter-Cluster Distances</u></i>. <font color="green">EITCE</font> (2023) <a href = "https://xinzhongzhu.github.io/document/%5BEITCE%5D%20Data-missing%20k-means%20based%20on%20intra-cluster%20and%20inter-cluster.pdf">[PDF]</a></li></p>
 
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS' 1]</b></font> Siwei Wang, Xinwang Liu*, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, <b>Xinzhong Zhu</b>, En Zhu: <i><u>Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/2023_5_6.pdf">[PDF]</a>  </li></p>
