@@ -6,7 +6,7 @@ layout: page
 # Contact Information:
 
 
-Xinzhong Zhu is with the College of Mathematics, Physics and Information Engineering, Zhejiang Normal University, Jinhua 321004, China, and also with the Research Institute of Ningbo Cixing Co. Ltd, Ningbo 315336, China, and also with the AI Research Institute of Beijing Geekplus Technology Co., Ltd., Beijing 100012, China.
+Xinzhong Zhu, a Zhejiang Province senior expert (2024), received a Ph.D. from Xidian University and an M.S. from the National University of Defense Technology (NUDT), China. He is a professor at the School of Computer Science and Technology (School of Artificial Intelligence), Zhejiang Normal University, and also the chief scientist of Beijing Geekplus Technology Co., Ltd. and president of the Research Institute of Ningbo Cixing Co., Ltd., China. His research interests include Machine learning, Deep clustering, Computer vision, Manufacturing informatization, Robotics and System integration, Laser SLAM, Vision SLAM, Diffusion Model, Low-Quality Data Learning, Multiple Kernel Learning, and Intelligent manufacturing. He is a member of the ACM and certified as a CCF distinguished member. Dr. Zhu has published more than 30 peer-reviewed papers, including those in highly regarded journals and conferences such as the IEEE Transactions on Pattern Analysis and Machine Intelligence, the IEEE Transactions on Image Processing, the IEEE Transactions on Multimedia, the IEEE Transactions on Knowledge and Data Engineering, CVPR, NeurIPS, AAAI, IJCAI, etc. He served on the Technical Program Committees of IJCAI 2020 and AAAI 2020.
 
 Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com</u> or <u>xinzhong.zhu@geekplus.com</u>
 
