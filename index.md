@@ -15,12 +15,15 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JBD' 1]</b></font> Huawen Liu*, Zongda Wu, Minghao Yin, Donghua Yu, <b>Xinzhong Zhu</b>, Jungang Lou: <i><u>An improved deep hashing model for image retrieval with binary code similarities</u></i>. <font color="green">Journal of Big Data (JBD)</font>: Vol.11 No.1 P1-18. (2024) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/s40537-024-00919-4.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JKSU' 1]</b></font> Negalign Wake Hundera, Shumeng Wang, Dagmawit Mesfin, Huiying Xu, <b>Xinzhong Zhu</b>: <i><u>An efficient online/offline heterogeneous proxy signcryption for secure communication in UAV networks</u></i>. <font color="green">Journal of King Saud University - Computer and Information Sciences</font> (<b>JKSU</b>) 36(5): 102044. (2024) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/1-s2.0-S1319157824001332-main.pdf">[PDF]</a></li></p>
+
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JBD' 1]</b></font> Huawen Liu*, Zongda Wu, Minghao Yin, Donghua Yu, <b>Xinzhong Zhu</b>, Jungang Lou: <i><u>An improved deep hashing model for image retrieval with binary code similarities</u></i>. <font color="green">Journal of Big Data </font> (<b>JBD</b>): Vol.11 No.1 P1-18. (2024) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/s40537-024-00919-4.pdf">[PDF]</a></li></p>
 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 2]</b></font> Xinyu Zhang, Huiying Xu*, <b>Xinzhong Zhu</b>, Yuhang Chen: <i><u>Deep Contrastive Clustering via Hard Positive Sample Debiased</u></i>. <font color="green">Neurocomputing</font> 570: 127147. (2024) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/%5BNeuroComputing%5D%20Deep%20Contrastive%20Clustering%20via%20Hard%20positive%20sample%20Debiased.pdf">[PDF]</a></li></p>
 
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 5]</b></font> Jun Wang, Chang Tang*, Xiao Zheng, Xinwang Liu, Wei Zhang, En Zhu, <b>Xinzhong Zhu</b>: <i><u>Fast Approximated Multiple Kernel K-means</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>. (2023) (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/Fast_Approximated_Multiple_Kernel_K-means.pdf">[PDF]</a></li></p>
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 5]</b></font> Jun Wang, Chang Tang*, Xiao Zheng, Xinwang Liu, Wei Zhang, En Zhu, <b>Xinzhong Zhu</b>: <i><u>Fast Approximated Multiple Kernel K-means</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering </font> (<b>TKDE</b>). (2023) (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/Fast_Approximated_Multiple_Kernel_K-means.pdf">[PDF]</a></li></p>
 
    <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Information Fusion' 1]</b></font> Miaomiao Li, Yi Zhang, Suyuan Liu, Zhe Liu*, <b>Xinzhong Zhu</b>*: <i><u>Simple Multiple Kernel k-Means with Kernel Weight Regularization</u></i>. <font color="green">Information Fusion</font> 100: 101902. (2023) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/%5BInformation%20Fusion%5D%20Simple%20multiple%20kernel%20k-means%20with%20kernel%20weight%20regularization.pdf">[PDF]</a></li></p>
 
