@@ -15,7 +15,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
 
-
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JBD' 1]</b></font> Huawen Liu*, Zongda Wu, Minghao Yin, Donghua Yu, <b>Xinzhong Zhu</b>, Jungang Lou: <i><u>An improved deep hashing model for image retrieval with binary code similarities</u></i>. <font color="green">Journal of Big Data (JBD)</font>: Vol.11 No.1 P1-18. (2024) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/s40537-024-00919-4.pdf">[PDF]</a></li></p>
 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 2]</b></font> Xinyu Zhang, Huiying Xu*, <b>Xinzhong Zhu</b>, Yuhang Chen: <i><u>Deep Contrastive Clustering via Hard Positive Sample Debiased</u></i>. <font color="green">Neurocomputing</font> 570: 127147. (2024) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/%5BNeuroComputing%5D%20Deep%20Contrastive%20Clustering%20via%20Hard%20positive%20sample%20Debiased.pdf">[PDF]</a></li></p>
