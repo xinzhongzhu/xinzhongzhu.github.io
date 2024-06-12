@@ -16,7 +16,11 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 <ol>
 
 
+
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 2]</b></font> Xinyu Zhang, Huiying Xu*, <b>Xinzhong Zhu</b>, Yuhang Chen: <i><u>Deep Contrastive Clustering via Hard Positive Sample Debiased</u></i>. <font color="green">Neurocomputing</font> 570: 127147. (2024) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/%5BNeuroComputing%5D%20Deep%20Contrastive%20Clustering%20via%20Hard%20positive%20sample%20Debiased.pdf">[PDF]</a></li></p>
+
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 5]</b></font> Jun Wang, Chang Tang*, Xiao Zheng, Xinwang Liu, Wei Zhang, En Zhu, <b>Xinzhong Zhu</b>: <i><u>Fast Approximated Multiple Kernel K-means</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>. (2023) (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/Fast_Approximated_Multiple_Kernel_K-means.pdf">[PDF]</a></li></p>
 
    <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Information Fusion' 1]</b></font> Miaomiao Li, Yi Zhang, Suyuan Liu, Zhe Liu*, <b>Xinzhong Zhu</b>*: <i><u>Simple Multiple Kernel k-Means with Kernel Weight Regularization</u></i>. <font color="green">Information Fusion</font> 100: 101902. (2023) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/%5BInformation%20Fusion%5D%20Simple%20multiple%20kernel%20k-means%20with%20kernel%20weight%20regularization.pdf">[PDF]</a></li></p>
 
