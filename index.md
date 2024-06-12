@@ -97,7 +97,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
 
-
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML' 1]</b></font> Weixuan Liang, En Zhu, Shengju Yu, Huiying Xu*, <b>Xinzhong Zhu</b>*, Xinwang Liu*: <i><u>Scalable Multiple Kernel Clustering: Learning Clustering Structure from Expectation</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/813_scalable_multiple_kernel_clust.pdf">[PDF]</a>  </li></p>
   
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS' 1]</b></font> Siwei Wang, Xinwang Liu*, Suyuan Liu, Jiaqi Jin, Wenxuan Tu, <b>Xinzhong Zhu</b>, En Zhu: <i><u>Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences</u></i>. <font color="green">NeurIPS 2022</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/2023_5_6.pdf">[PDF]</a>  </li></p>
   
