@@ -20,7 +20,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 2]</b></font> Mahvish Samar, <b>Xinzhong Zhu</b>*, Huiying Xu: <i><u>Conditioning Theory for ML-Weighted Pseudoinverse and ML-Weighted Least Squares Problem</u></i>. <font color="green">Axioms</font>: 13 (2024) 345. (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/5-Conditioning%20Theory%20for%20ML-Weighted.pdf">[PDF]</a></li></p>
 
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 1]</b></font> Mahvish Samar, Edwin Yao Kutorzi, <b>Xinzhong Zhu</b>*: <i><u>Numerical Solution of Nonlinear Backward Stochastic Volterra Integral Equations</u></i>. <font color="green">Axioms</font>: 12(9) (2023), 888. (2024) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/2-Numerical%20Solution%20of%20Nonlinear%20Backward%20Stochastic%20Volterra%20Integral%20Equations.pdf">[PDF]</a></li></p>
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 1]</b></font> Mahvish Samar, Edwin Yao Kutorzi, <b>Xinzhong Zhu</b>*: <i><u>Numerical Solution of Nonlinear Backward Stochastic Volterra Integral Equations</u></i>. <font color="green">Axioms</font>: 12(9) (2023), 888. (2023) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/2-Numerical%20Solution%20of%20Nonlinear%20Backward%20Stochastic%20Volterra%20Integral%20Equations.pdf">[PDF]</a></li></p>
 
 
 
