@@ -15,6 +15,15 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <ol>
 
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 3]</b></font> Mahvish Samar, <b>Xinzhong Zhu</b>*, Huiying Xu: <i><u>New Nonlinear Retarded Integral Inequalities and Their Applications to Nonlinear Retarded Integro-Differential Equations</u></i>. <font color="green">Axioms</font>: 13 (2024) 356. (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/6-New%20Nonlinear%20Retarded%20Integral%20Inequalities%20and%20Their%20Applications%20to%20Nonlinear%20Retarded%20Integro-Differential%20Equations.pdf">[PDF]</a></li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 2]</b></font> Mahvish Samar, <b>Xinzhong Zhu</b>*, Huiying Xu: <i><u>Conditioning Theory for ML-Weighted Pseudoinverse and ML-Weighted Least Squares Problem</u></i>. <font color="green">Axioms</font>: 13 (2024) 345. (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/5-Conditioning%20Theory%20for%20ML-Weighted.pdf">[PDF]</a></li></p>
+
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 1]</b></font> Mahvish Samar, Edwin Yao Kutorzi, <b>Xinzhong Zhu</b>*: <i><u>Numerical Solution of Nonlinear Backward Stochastic Volterra Integral Equations</u></i>. <font color="green">Axioms</font>: 12(9) (2023), 888. (2024) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/2-Numerical%20Solution%20of%20Nonlinear%20Backward%20Stochastic%20Volterra%20Integral%20Equations.pdf">[PDF]</a></li></p>
+
+
+
   <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Vehicular Communications' 1]</b></font> Negalign Wake Hundera, Muhammad Umar Aftab, Dagmawit Mesfin, Fatene Dioubi∗, Huiying Xu, <b>Xinzhong Zhu</b>*: <i><u>An efficient heterogeneous online/offline anonymous certificateless signcryption with proxy re-encryption for Internet of vehicles</u></i>. <font color="green">Vehicular Communications</font>: 100811. (2024) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/1-s2.0-S221420962400086X-main.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JKSU' 1]</b></font> Negalign Wake Hundera, Shumeng Wang, Dagmawit Mesfin, Huiying Xu, <b>Xinzhong Zhu</b>*: <i><u>An efficient online/offline heterogeneous proxy signcryption for secure communication in UAV networks</u></i>. <font color="green">Journal of King Saud University - Computer and Information Sciences</font> (<b>JKSU</b>) 36(5): 102044. (2024) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/1-s2.0-S1319157824001332-main.pdf">[PDF]</a></li></p>
