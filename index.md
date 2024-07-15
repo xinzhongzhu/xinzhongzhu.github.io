@@ -12,11 +12,9 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 
 <details>
-  <summary><font size="7">Selected Journal Papers:</font></summary>
+  <summary><font size="7"><b>Selected Journal Papers:</b></font></summary>
   <p>
-    <ol>
-
-
+  <ol>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 3]</b></font> Mahvish Samar, <b>Xinzhong Zhu</b>*, Abdul Shakoor, Mawia Osman: <i><u>New Nonlinear Retarded Integral Inequalities and Their Applications to Nonlinear Retarded Integro-Differential Equations</u></i>. <font color="green">Axioms</font>: 13 (2024) 356. (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/6-New%20Nonlinear%20Retarded%20Integral%20Inequalities%20and%20Their%20Applications%20to%20Nonlinear%20Retarded%20Integro-Differential%20Equations.pdf">[PDF]</a></li></p>
 
@@ -108,11 +106,10 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 </details>
 
 
-
-
-# Selected Conference Papers:
-
-<ol>
+<details>
+  <summary><font size="7"><b>Selected Conference Papers:</b></font></summary>
+  <p>
+    <ol>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML' 1]</b></font> Weixuan Liang, En Zhu, Shengju Yu, Huiying Xu*, <b>Xinzhong Zhu</b>*, Xinwang Liu*: <i><u>Scalable Multiple Kernel Clustering: Learning Clustering Structure from Expectation</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/813_scalable_multiple_kernel_clust.pdf">[PDF]</a>  </li></p>
   
@@ -133,11 +130,11 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 1]</b></font> <b>Xinzhong Zhu</b>, Xinwang Liu, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: <i><u>Localized Incomplete Multiple Kernel k-means</u></i>. <font color="green">nternational Joint Conference on Artificial Intelligence (IJCAI)</font> Stockholm, 2018, 3271-3277. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2018/0454.pdf">[PDF]</a></li></p>
 
 
-  
-
-  
-
 </ol>
+  </p>
+</details>
+
+
 
 
 
