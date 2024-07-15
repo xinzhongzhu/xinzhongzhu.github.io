@@ -12,15 +12,9 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 
 <details>
-  <summary># Selected Journal Papers:</summary>
+  <summary><font size="7">Selected Journal Papers:</font></summary>
   <p>
-    要求有一台运行操作系统的计算机。计算机必须有一些内存，最好有某种长期存储。建议有一个输入设备以及某种形式的输出设备。
-  </p>
-</details>
-
-
-
-<ol>
+    <ol>
 
 
 
@@ -109,6 +103,12 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 
 </ol>
+
+  </p>
+</details>
+
+
+
 
 # Selected Conference Papers:
 
