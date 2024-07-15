@@ -11,7 +11,14 @@ Xinzhong Zhu, a Special Expert of Zhejiang Province, received a Ph.D. from Xidia
 Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com</u> or <u>xinzhong.zhu@geekplus.com</u>
 
 
-# Selected Journal Papers:
+<details>
+  <summary># Selected Journal Papers:</summary>
+  <p>
+    要求有一台运行操作系统的计算机。计算机必须有一些内存，最好有某种长期存储。建议有一个输入设备以及某种形式的输出设备。
+  </p>
+</details>
+
+
 
 <ol>
 
