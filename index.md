@@ -131,7 +131,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CVPR' 1]</b></font> Chang Tang, <b>Xinzhong Zhu</b>, Xinwang Liu, Lizhe Wang, Albert Zomaya: <i><u>DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features</u></i>. <font color="green">CVPR 2019</font>. (CCF Rank A) <a href = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_DeFusionNET_Defocus_Blur_Detection_via_Recurrently_Fusing_and_Refining_Multi-Scale_CVPR_2019_paper.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 1]</b></font> <b>Xinzhong Zhu</b>, Xinwang Liu, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: <i><u>Localized Incomplete Multiple Kernel k-means</u></i>. <font color="green">nternational Joint Conference on Artificial Intelligence (IJCAI)</font> Stockholm, 2018, 3271-3277. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2018/0454.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 1]</b></font> <b>Xinzhong Zhu</b>, Xinwang Liu, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: <i><u>Localized Incomplete Multiple Kernel k-means</u></i>. <font color="green">International Joint Conference on Artificial Intelligence (IJCAI)</font> Stockholm, 2018, 3271-3277. (CCF Rank A) <a href = "https://www.ijcai.org/proceedings/2018/0454.pdf">[PDF]</a></li></p>
 
 
 </ol>
@@ -139,7 +139,17 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 </details>
 
 
+<details open>
+  <summary><font size="6"><b>PrePrint:</b></font></summary>
+  <p>
+    <ol>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>['ArXiv 1]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>*, Wenhao Zhang, Yao Dong, Yuxing Chen, Hongbo Li: <i><u>SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention</u></i>. <font color="green">ArXiv</font> 2024. <a href = "[https://www.ijcai.org/proceedings/2018/0454.pdf](https://arxiv.org/pdf/2407.05128v1)">[PDF]</a></li></p>
 
+
+
+</ol>
+  </p>
+</details>
 
 
 <font size="6"><b>Brief Bio:</b></font>
