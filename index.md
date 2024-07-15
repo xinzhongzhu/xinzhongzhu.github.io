@@ -12,7 +12,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 
 <details>
-  <summary><font size="7"><b>Selected Journal Papers:</b></font></summary>
+  <summary><font size="6"><b>Selected Journal Papers:</b></font></summary>
   <p>
   <ol>
 
@@ -107,7 +107,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 
 <details>
-  <summary><font size="7"><b>Selected Conference Papers:</b></font></summary>
+  <summary><font size="6"><b>Selected Conference Papers:</b></font></summary>
   <p>
     <ol>
 
