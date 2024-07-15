@@ -159,6 +159,10 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 </details>
 
 
+
+<br />
+
+
 <font size="6"><b>Brief Bio:</b></font>
 
 Xinzhong Zhu, a Special Expert of Zhejiang Province, received a Ph.D. degree from Xidian University and an M.S. degree from the National University of Defense Technology (NUDT), China. He is a professor at the School of Computer Science and Technology (School of Artificial Intelligence), Zhejiang Normal University, and also the chief scientist of Beijing Geekplus Technology Co., Ltd. and president of the Research Institute of Ningbo Cixing Co., Ltd., China. His research interests include Machine learning, Deep clustering, Computer vision, Manufacturing informatization, Robotics and System integration, Laser SLAM, Vision SLAM, Diffusion Model, Low-Quality Data Learning, Multiple Kernel Learning, and Intelligent manufacturing. He is a member of the ACM and certified as a CCF distinguished member. Dr. Zhu has published more than 30 peer-reviewed papers, including those in highly regarded journals and conferences such as the IEEE Transactions on Pattern Analysis and Machine Intelligence, the IEEE Transactions on Image Processing, the IEEE Transactions on Multimedia, the IEEE Transactions on Knowledge and Data Engineering, CVPR, NeurIPS, AAAI, IJCAI, etc. He served on the Technical Program Committees of IJCAI 2020 and AAAI 2020.
