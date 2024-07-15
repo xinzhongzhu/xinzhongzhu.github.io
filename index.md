@@ -106,7 +106,6 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 </details>
 
 <br />
-<br />
 
 <details open>
   <summary><font size="6"><b>Selected Conference Papers</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
@@ -141,7 +140,6 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 </details>
 
 
-<br />
 <br />
 
 <details open>
