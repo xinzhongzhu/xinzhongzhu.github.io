@@ -143,9 +143,9 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <summary><font size="6"><b>PrePrint:</b></font></summary>
   <p>
     <ol>
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>['ArXiv 1]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>*, Wenhao Zhang, Yao Dong, Yuxing Chen, Hongbo Li: <i><u>SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention</u></i>. <font color="green">ArXiv</font> 2024. <a href = "https://arxiv.org/pdf/2407.05128v1">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/SCSA">[Code]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ArXiv' 1]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>*, Wenhao Zhang, Yao Dong, Yuxing Chen, Hongbo Li: <i><u>SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention</u></i>. <font color="green">ArXiv</font> 2024. <a href = "https://arxiv.org/pdf/2407.05128v1">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/SCSA">[Code]</a></li></p>
 
-
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ArXiv' 1]</b></font> Zeyu Wanga#, Chen Lia#, <b>Huiying Xu</b>*, <b>Xinzhong Zhu</b>*: <i><u>Mamba YOLO: SSMs-Based YOLO For Object Detection</u></i>. <font color="green">ArXiv</font> 2024. <a href = "https://arxiv.org/abs/2406.05835">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/Mamba-YOLO">[Code]</a></li></p>
 
 </ol>
   </p>
