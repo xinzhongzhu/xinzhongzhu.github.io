@@ -16,7 +16,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSP' 1]</b></font> Yi Li, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang and Hongbo Li: <i><u>THDet: A Lightweight and Efficient Traffic Helmet Object Detector based on YOLOv8</u></i>. <font color="green">Digital Signal Processing</font> (<b>DSP</b>). (SCI Q3) <a href = "https://huiyingxu-zj.github.io/document/2024_9_15.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSP' 1]</b></font> Yi Li, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang and Hongbo Li: <i><u>THDet: A Lightweight and Efficient Traffic Helmet Object Detector based on YOLOv8</u></i>. <font color="green">Digital Signal Processing: 155 (2024) 104765</font> (<b>DSP</b>). (SCI Q3) <a href = "https://huiyingxu-zj.github.io/document/2024_9_15.pdf">[PDF]</a></li></p>
 
 
 
