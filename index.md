@@ -16,6 +16,10 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSP' 1]</b></font> Yi Li, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang and Hongbo Li: <i><u>THDet: A Lightweight and Efficient Traffic Helmet Object Detector based on YOLOv8</u></i>. <font color="green">Digital Signal Processing</font> (<b>DSP</b>). (SCI Q3) <a href = "https://huiyingxu-zj.github.io/document/2024_9_15.pdf">[PDF]</a></li></p>
+
+
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 3]</b></font> Mahvish Samar, <b>Xinzhong Zhu</b>*, Abdul Shakoor, Mawia Osman: <i><u>New Nonlinear Retarded Integral Inequalities and Their Applications to Nonlinear Retarded Integro-Differential Equations</u></i>. <font color="green">Axioms</font>: 13 (2024) 356. (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/6-New%20Nonlinear%20Retarded%20Integral%20Inequalities%20and%20Their%20Applications%20to%20Nonlinear%20Retarded%20Integro-Differential%20Equations.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 2]</b></font> Mahvish Samar, <b>Xinzhong Zhu</b>*, Huiying Xu: <i><u>Conditioning Theory for ML-Weighted Pseudoinverse and ML-Weighted Least Squares Problem</u></i>. <font color="green">Axioms</font>: 13 (2024) 345. (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/5-Conditioning%20Theory%20for%20ML-Weighted.pdf">[PDF]</a></li></p>
