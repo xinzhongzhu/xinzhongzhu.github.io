@@ -16,6 +16,8 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JKSU' 2]</b></font> Fatene Dioubi, Negalign Wake Hundera, Huiying Xu∗, <b>Xinzhong Zhu</b>: <i><u>Enhancing stock market predictions via hybrid external trend and internal components analysis and long short term memory model</u></i>. <font color="green">Journal of King Saud University - Computer and Information Sciences</font> (<b>JKSU</b>) 36(5): 102044. (2024) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/1-s2.0-S1319157824003410-main.pdf">[PDF]</a></li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSP' 1]</b></font> Yi Li, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang and Hongbo Li: <i><u>THDet: A Lightweight and Efficient Traffic Helmet Object Detector based on YOLOv8</u></i>. <font color="green">Digital Signal Processing: 155 (2024) 104765</font> (<b>DSP</b>). (SCI Q3) <a href = "https://huiyingxu-zj.github.io/document/2024_9_15.pdf">[PDF]</a></li></p>
 
 
