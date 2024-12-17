@@ -122,7 +122,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
     <ol>
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 5]</b></font> Zeyu Wanga#, Chen Lia#, <b>Huiying Xu</b>*, <b>Xinzhong Zhu</b>*, hHongbo Li: <i><u>Mamba YOLO: SSMs-Based YOLO For Object Detection</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://arxiv.org/pdf/2406.05835">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/Mamba-YOLO">[Code]</a> <a href = "https://mp.weixin.qq.com/s/akYY5sKYU6FAgN4nTcYB1w">[Intro]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 5]</b></font> Zeyu Wanga#, Chen Lia#, Huiying Xu*, <b>Xinzhong Zhu</b>*, Hongbo Li: <i><u>Mamba YOLO: SSMs-Based YOLO For Object Detection</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://arxiv.org/pdf/2406.05835">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/Mamba-YOLO">[Code]</a> <a href = "https://mp.weixin.qq.com/s/akYY5sKYU6FAgN4nTcYB1w">[Intro]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 2]</b></font> Dayu Hu, Suyuan Liu, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, <b>Xinzhong Zhu</b>*, Chang Tang, Xinwang Liu*: <i><u>Reliable Attribute-missing Multi-view Clustering with Instance-level and Feature-level Cooperative Imputation</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A) </a>  </li></p>
 
