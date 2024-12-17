@@ -6,7 +6,7 @@ layout: page
 <font size="6"><b>Contact Information:</b></font>
 
 
-Xinzhong Zhu, a Special Expert of Zhejiang Province, received a Ph.D. from Xidian University and an M.S. from the National University of Defense Technology (NUDT), China. He is a professor at the School of Computer Science and Technology (School of Artificial Intelligence), Zhejiang Normal University, and also the chief scientist of Beijing Geekplus Technology Co., Ltd. and president of the Research Institute of Ningbo Cixing Co., Ltd., China. His research interests include Machine learning, Deep clustering, Computer vision, Manufacturing informatization, Robotics and System integration, Laser SLAM, Vision SLAM, Diffusion Model, Low-Quality Data Learning, Multiple Kernel Learning, and Intelligent manufacturing. He is a member of the ACM and certified as a CCF distinguished member. Dr. Zhu has published more than 30 peer-reviewed papers, including those in highly regarded journals and conferences such as the IEEE Transactions on Pattern Analysis and Machine Intelligence, the IEEE Transactions on Image Processing, the IEEE Transactions on Multimedia, the IEEE Transactions on Knowledge and Data Engineering, CVPR, NeurIPS, AAAI, IJCAI, etc. He served on the Technical Program Committees of IJCAI 2020 and AAAI 2020.
+Xinzhong Zhu, a Special Expert of Zhejiang Province, received a Ph.D. from Xidian University and an M.S. from the National University of Defense Technology (NUDT), China. He is a professor at the School of Computer Science and Technology (School of Artificial Intelligence), Zhejiang Normal University, and also the dean of Hangzhou Institute of Artificial Intelligence, Zhejiang Normal University, and the chief scientist of Beijing Geekplus Technology Co., Ltd. and president of the Research Institute of Ningbo Cixing Co., Ltd., China. His research interests include Machine learning, Deep clustering, Computer vision, Manufacturing informatization, Robotics and System integration, Laser SLAM, Vision SLAM, Diffusion Model, Low-Quality Data Learning, Multiple Kernel Learning, and Intelligent manufacturing. He is a member of the ACM and certified as a CCF distinguished member. Dr. Zhu has published more than 30 peer-reviewed papers, including those in highly regarded journals and conferences such as the IEEE Transactions on Pattern Analysis and Machine Intelligence, the IEEE Transactions on Image Processing, the IEEE Transactions on Multimedia, the IEEE Transactions on Knowledge and Data Engineering, CVPR, NeurIPS, AAAI, IJCAI, etc. He served on the Technical Program Committees of IJCAI 2020 and AAAI 2020.
 
 Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com</u> or <u>xinzhong.zhu@geekplus.com</u>
 
@@ -121,6 +121,9 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
     <ol>
 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 5]</b></font> Zeyu Wanga#, Chen Lia#, <b>Huiying Xu</b>*, <b>Xinzhong Zhu</b>*, hHongbo Li: <i><u>Mamba YOLO: SSMs-Based YOLO For Object Detection</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://arxiv.org/pdf/2406.05835">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/Mamba-YOLO">[Code]</a> <a href = "https://mp.weixin.qq.com/s/akYY5sKYU6FAgN4nTcYB1w">[Intro]</a></li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 2]</b></font> Dayu Hu, Suyuan Liu, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, <b>Xinzhong Zhu</b>*, Chang Tang, Xinwang Liu*: <i><u>Reliable Attribute-missing Multi-view Clustering with Instance-level and Feature-level Cooperative Imputation</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A) </a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 1]</b></font> Fangdi Wang, Siwei Wang, Tianrui Liu, Jiaqi Jin, Zhibin Dong, Xihong Yang, Yu Feng, <b>Xinzhong Zhu</b>*, Xinwang Liu*, En Zhu: <i><u>View Gap Matters: Cross-view Topology and Information Decoupling for Multi-view Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A) </a>  </li></p>
@@ -158,9 +161,8 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <summary><font size="6"><b>PrePrint</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
   <p>
     <ol>
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ArXiv' 2]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>*, Wenhao Zhang, Yao Dong, Yuxing Chen, Hongbo Li: <i><u>SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention</u></i>. <font color="green">ArXiv</font> 2024. <a href = "https://arxiv.org/pdf/2407.05128v1">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/SCSA">[Code]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ArXiv' 1]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>*, Wenhao Zhang, Yao Dong, Yuxing Chen, Hongbo Li: <i><u>SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention</u></i>. <font color="green">ArXiv</font> 2024. <a href = "https://arxiv.org/pdf/2407.05128v1">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/SCSA">[Code]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ArXiv' 1]</b></font> Zeyu Wanga#, Chen Lia#, <b>Huiying Xu</b>*, <b>Xinzhong Zhu</b>*: <i><u>Mamba YOLO: SSMs-Based YOLO For Object Detection</u></i>. <font color="green">ArXiv</font> 2024. <a href = "https://arxiv.org/pdf/2406.05835">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/Mamba-YOLO">[Code]</a> <a href = "https://mp.weixin.qq.com/s/akYY5sKYU6FAgN4nTcYB1w">[Intro]</a></li></p>
 
 
 
