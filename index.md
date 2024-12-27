@@ -121,7 +121,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
     <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 6]</b></font> Chen Li, Rui Zhao, Zeyu Wang, Huiying Xu*, <b>Xinzhong Zhu</b>*: <i><u>RemDet: Rethinking Efficient Model Design for UAV Object Detection</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/RemDet_AAAI.pdf">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/RemDet">[Code]</a> <a href = "https://hub.baai.ac.cn/paper/cedfd291-c1cb-4e13-9d87-844382c5a09d#introduction">[Intro]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 6]</b></font> Chen Li, Rui Zhao, Zeyu Wang, Huiying Xu*, <b>Xinzhong Zhu</b>*: <i><u>RemDet: Rethinking Efficient Model Design for UAV Object Detection</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/RemDet_AAAI_final.pdf">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/RemDet">[Code]</a> <a href = "https://hub.baai.ac.cn/paper/cedfd291-c1cb-4e13-9d87-844382c5a09d#introduction">[Intro]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 5]</b></font> Zeyu Wang#, Chen Li#, Huiying Xu*, <b>Xinzhong Zhu</b>*, Hongbo Li: <i><u>Mamba YOLO: SSMs-Based YOLO For Object Detection</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://arxiv.org/pdf/2406.05835">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/Mamba-YOLO">[Code]</a> <a href = "https://mp.weixin.qq.com/s/akYY5sKYU6FAgN4nTcYB1w">[Intro]</a></li></p>
 
