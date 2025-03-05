@@ -16,7 +16,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 3]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>, Rihao Liu, Hongbo Li: <i><u>Attention-modulated frequency-aware pooling via spatial guidance</u></i>. <font color="green">Neurocomputing</font> 625: 129507. (27 January 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/Attention-modulated frequency-aware pooling via spatial guidance.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 3]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>, Rihao Liu, Hongbo Li: <i><u>Attention-modulated frequency-aware pooling via spatial guidance</u></i>. <font color="green">Neurocomputing</font> 625: 129507. (27 January 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/Attention-modulated frequency-aware pooling via spatial guidance.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IVC' 1]</b></font> Wenhao Zhang, Huiying Xu*, <b>Xinzhong Zhu</b>, Yunzhong Si, Yao Dong, Xiao Huang, Hongbo Li: <i><u>RFSC-net: Re-parameterization forward semantic compensation network in low-light environments</u></i>. <font color="green">Image and Vision Computing</font> (<b>IVC</b>) 151: 105271. (2024) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/RFSC-net Re-parameterization forward semantic compensation network in low-light environments.pdf">[PDF]</a></li></p>
 
