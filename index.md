@@ -16,6 +16,8 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 4]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>, Wenhao Zhang, Yao Dong, Yuxing Chen, Hongbo Li: <i><u>SCSA: Exploring the synergistic effects between spatial and channel attention</u></i>. <font color="green">Neurocomputing</font> 625: 129507. (8 March 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/1-s2.0-S0925231225005387-main.pdf">[PDF]</a></li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AIMS Mathematics' 3]</b></font> Nafissa T. Trouba, Mohamed E. M. Alngar, Reham M. A.Shohib, Haitham A. Mahmoud, Yakup Yildirim, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u>Novel solitary wave solutions of the (3+1)–dimensional nonlinear Schrödinger equation with generalized Kudryashov self–phase modulation</u></i>. <font color="green">AIMS Mathematics</font>  (28 January 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/10.3934_math.2025202.pdf">[PDF]</a></li></p>  
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AIMS Mathematics' 2]</b></font> Nafissa T. Trouba, Huiying Xu*, Mohamed E. M. Alngar, Reham M. A.Shohib, Haitham A. Mahmoud, <b>Xinzhong Zhu</b>: <i><u>Soliton solutions and stability analysis of the stochastic nonlinear reaction-diffusion equation with multiplicative white noise in soliton dynamics and optical physics</u></i>. <font color="green">AIMS Mathematics</font>  (24 January 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/10.3934_math.2025086.pdf">[PDF]</a></li></p>  
