@@ -129,6 +129,8 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
     <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CSCWD' 1]</b></font> Linwei Yao, Kuan Li*, Huiying Xu, <b>Xinzhong Zhu*</b>,  Hongbo Li: <i><u>Multi-DAT: Dynamic Job Task Scheduling Method Based on Multi-agent Reinforcement Learning</u></i>. <font color="green">CSCWD 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Dynamic_scheduling_of_carrier_based_aircraft_support_tasks_based_on_multi_agent_reinforcement_learning.pdf">[PDF]</a>  </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 2]</b></font> Minghao Li, Hechuan Lin, Huiying Xu*, Ziying Wang, <b>Xinzhong Zhu</b>,  Xiao Huang: <i><u>One-step Incomplete Muti-view Clustering based on Bipartite Graph Learning</u></i>. <font color="green">ICASSP 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Minghao-Li.pdf">[PDF]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 6]</b></font> Chen Li, Rui Zhao, Zeyu Wang, Huiying Xu*, <b>Xinzhong Zhu</b>*: <i><u>RemDet: Rethinking Efficient Model Design for UAV Object Detection</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/RemDet_AAAI_final.pdf">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/RemDet">[Code]</a> <a href = "https://hub.baai.ac.cn/paper/cedfd291-c1cb-4e13-9d87-844382c5a09d#introduction">[Intro]</a></li></p>
