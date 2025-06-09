@@ -16,6 +16,8 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CJPH' 1]</b></font> Zahoor Iqbal*, Nisha A․, Vinoth kumar B․, Huiying Xu*, <b>Xinzhong Zhu*</b>, Ridha Selmi*, Sahar Ahmed Idris, Ines Hilali Jaghdam, Ahmed M. Abed: <i><u>Numerical simulations of combined effect of viscosity variation and magnetohydrodynamic (MHD) characteristics for wide porous slider bearings with exponential film profile</u></i>. <font color="green">Chinese Journal of Physics</font> . (24 March 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/CJPH2984.pdf">[PDF]</a></li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 4]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>, Wenhao Zhang, Yao Dong, Yuxing Chen, Hongbo Li: <i><u>SCSA: Exploring the synergistic effects between spatial and channel attention</u></i>. <font color="green">Neurocomputing</font> 634: 129866. (8 March 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/1-s2.0-S0925231225005387-main.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AIMS Mathematics' 3]</b></font> Nafissa T. Trouba, Mohamed E. M. Alngar, Reham M. A.Shohib, Haitham A. Mahmoud, Yakup Yildirim, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u>Novel solitary wave solutions of the (3+1)–dimensional nonlinear Schrödinger equation with generalized Kudryashov self–phase modulation</u></i>. <font color="green">AIMS Mathematics</font>  (28 January 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/10.3934_math.2025202.pdf">[PDF]</a></li></p>  
