@@ -133,7 +133,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
     <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML' 2]</b></font> Yiming Sun, Xin Li, Pengfei Zhu, Qinghua Hu, Dongwei Ren, Huiying Xu, <b>Xinzhong Zhu</b>: <i><u>Task-Gated Multi-Expert Collaboration Network for Degraded Multi-Modal Image Fusion</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/3251_Task_Gated_Multi_Expert.pdf">[PDF]</a> <a href = "https://github.com/LeeX54946/TG-ECNet">[Code]</a>  </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML' 2]</b></font> Yiming Sun, Xin Li, Pengfei Zhu*, Qinghua Hu, Dongwei Ren, Huiying Xu, <b>Xinzhong Zhu</b>: <i><u>Task-Gated Multi-Expert Collaboration Network for Degraded Multi-Modal Image Fusion</u></i>. <font color="green">ICML 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/3251_Task_Gated_Multi_Expert.pdf">[PDF]</a> <a href = "https://github.com/LeeX54946/TG-ECNet">[Code]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CSCWD' 1]</b></font> Linwei Yao, Kuan Li*, Huiying Xu, <b>Xinzhong Zhu*</b>,  Hongbo Li: <i><u>Multi-DAT: Dynamic Job Task Scheduling Method Based on Multi-agent Reinforcement Learning</u></i>. <font color="green">CSCWD 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Dynamic_scheduling_of_carrier_based_aircraft_support_tasks_based_on_multi_agent_reinforcement_learning.pdf">[PDF]</a>  </li></p>
 
