@@ -16,7 +16,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green">[Medical Physics</font> . (8 Sep 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green">[Medical Physics</font> . (8 Sep 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Food Chemistry' 1]</b></font> Jinhong Li, Huiying Xu*, <b>Xinzhong Zhu</b>, Jiping Xiong, Xiaolei Zhang: <i><u>FSF-ViT: Image augmentation and adaptive global-local feature fusion for Few-Shot Food classification</u></i>. <font color="green">Food Chemistry</font> . (12 July 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FSFViT.pdf">[PDF]</a></li></p>
 
