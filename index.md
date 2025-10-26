@@ -16,7 +16,9 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green">[Medical Physics</font> . (8 Sep 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ITII' 1]</b></font> Wenjie Yao, Guanglu Sun, Suxia Zhu, Ruidong Wang, <b>Xinzhong Zhu</b>, Huiying Xu*, Xiguang Wei: <i><u>FedRDA: Representation Deviation Alignment in Heterogeneous Federated Learning</u></i>. <font color="green"> IEEE Transactions on Industrial Informatics</font> . (Nov 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FedRDA.pdf">[PDF]</a></li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green"> Medical Physics</font> . (8 Sep 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Food Chemistry' 1]</b></font> Jinhong Li, Huiying Xu*, <b>Xinzhong Zhu</b>, Jiping Xiong, Xiaolei Zhang: <i><u>FSF-ViT: Image augmentation and adaptive global-local feature fusion for Few-Shot Food classification</u></i>. <font color="green">Food Chemistry</font> . (12 July 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FSFViT.pdf">[PDF]</a></li></p>
 
@@ -136,6 +138,10 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <summary><font size="6"><b>Selected Conference Papers</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
   <p>
     <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE MITA' 1]</b></font> Zebin Wu, Zijia Wang*, Huiying Xu*, <b>Xinzhong Zhu</b>, Hongbo Li: <i><u>Adaptive Dimensional Learning for Multitask Optimization</u></i>. <font color="green">IEEE MITA 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/ADLMTO.pdf">[PDF]</a> </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICIC' 1]</b></font> Ke Sheng, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u>Pose-Enhanced 3D Rotary Embedding for Multi-View 3D Object Detection</u></i>. <font color="green">ICIC 2025</font>. (CCF Rank C) <a href = "https://xinzhongzhu.github.io/document/Pose-Enhanced 3D Rotary Embedding for Multi-View 3D Object Detection.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 3]</b></font> Xuedong He*#, Huiying Xu*#, <b>Xinzhong Zhu</b>, Hongbo Li: <i><u>High-Performance Discriminative Tracking with Spatio-Temporal Template Fusion</u></i>. (# Equal contribution) <font color="green">ACM MM 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/High-Performance Discriminative Tracking with Spatio-Temporal Template Fusion.pdf">[PDF]</a> </li></p>
 
