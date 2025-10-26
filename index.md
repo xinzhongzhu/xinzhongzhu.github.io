@@ -16,7 +16,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ITII' 1]</b></font> Wenjie Yao, Guanglu Sun, Suxia Zhu, Ruidong Wang, <b>Xinzhong Zhu</b>, Huiying Xu*, Xiguang Wei: <i><u>FedRDA: Representation Deviation Alignment in Heterogeneous Federated Learning</u></i>. <font color="green"> IEEE Transactions on Industrial Informatics</font> . (Nov 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FedRDA.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TII' 1]</b></font> Wenjie Yao, Guanglu Sun, Suxia Zhu, Ruidong Wang, <b>Xinzhong Zhu</b>, Huiying Xu*, Xiguang Wei: <i><u>FedRDA: Representation Deviation Alignment in Heterogeneous Federated Learning</u></i>. <font color="green"> IEEE Transactions on Industrial Informatics</font> . (Nov 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FedRDA.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green"> Medical Physics</font> . (8 Sep 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
 
