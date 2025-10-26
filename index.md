@@ -139,7 +139,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
     <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE MITA' 1]</b></font> Zebin Wu, Zijia Wang*, Huiying Xu*, <b>Xinzhong Zhu</b>, Hongbo Li: <i><u>Adaptive Dimensional Learning for Multitask Optimization</u></i>. <font color="green">IEEE MITA 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/ADLMTO.pdf">[PDF]</a> </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE MITA' 1]</b></font> Zebin Wu, Zijia Wang*, Huiying Xu*, <b>Xinzhong Zhu</b>, Hongbo Li: <i><u>Adaptive Dimensional Learning for Multitask Optimization</u></i>. <font color="green">IEEE MITA 2025</font>. (EI) <a href = "https://xinzhongzhu.github.io/document/ADLMTO.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICIC' 1]</b></font> Ke Sheng, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u>Pose-Enhanced 3D Rotary Embedding for Multi-View 3D Object Detection</u></i>. <font color="green">ICIC 2025</font>. (CCF Rank C) <a href = "https://xinzhongzhu.github.io/document/Pose-Enhanced 3D Rotary Embedding for Multi-View 3D Object Detection.pdf">[PDF]</a> </li></p>
 
