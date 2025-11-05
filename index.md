@@ -16,6 +16,11 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TII' 1]</b></font> Junaid Hassan, Zhen Qin, Muhammad Arslan Rauf, Muhammad Umar Aftab, Negalign Wake Hundera, <b>Xinzhong Zhu*</b>: <i><u>Revocable Policy Hiding Bilateral Access Control Scheme With Equality Test for IIoT Environment</u></i>. <font color="green"> IEEE INTERNET OF THINGS JOURNAL </font> . (Oct 17 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/RBAC-ET.pdf">[PDF]</a></li></p>
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TII' 1]</b></font> Zohaib Ali, Junaid Hassan, Muhammad Umar Aftab*, Negalign Wake Hundera*, Huiying Xu, <b>Xinzhong Zhu*</b>: <i><u>Securing Wireless Body Area Network with lightweight certificateless signcryption scheme using equality test</u></i>. <font color="green"> Computer Standards & Interfaces </font> . (Sep 17 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/Securing Wireless Body.pdf">[PDF]</a></li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TII' 1]</b></font> Wenjie Yao, Guanglu Sun, Suxia Zhu, Ruidong Wang, <b>Xinzhong Zhu</b>, Huiying Xu*, Xiguang Wei: <i><u>FedRDA: Representation Deviation Alignment in Heterogeneous Federated Learning</u></i>. <font color="green"> IEEE Transactions on Industrial Informatics</font> . (Nov 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FedRDA.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green"> Medical Physics</font> . (8 Sep 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
@@ -208,6 +213,9 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <summary><font size="6"><b>Project</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
   <p>
     <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Hello-Agents</b></font> <i><u>:A systematic tutorial on agent learning</u></i>. <a href = "https://datawhalechina.github.io/hello-agents/#/">[Github Link]</a></li></p>
+  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Happy-LLM</b></font> <i><u>:A Tutorial on the Principles and Practices of Large Language Models Starting from Scratch</u></i>. <a href = "https://github.com/datawhalechina/happy-llm">[Github Link]</a></li></p>
 
 
