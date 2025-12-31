@@ -17,6 +17,10 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <ol>
 
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JVCI' 1]</b></font> Ziqing He, Longfei Wang, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u>A Multi-Task Visual Framework: Geometry-Guided UAV Crowd Counting and Localization for Media Practice</u></i>. <font color="green">Journal of Visual Communication and Image Representation</font>  (2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/Media Practice_JVCI.pdf">[PDF]</a></li></p>  
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Mathematics' 2]</b></font> Nafissa T. Trouba, Huiying Xu*, Reham M. A. Shohib*, Mohamed E. M. Alngar, Mohammed El-Meligy, <b>Xinzhong Zhu</b>, Adham E. Ragab: <i><u>Stochastic soliton dynamics in the perturbed Gerdjikov-Ivanov equation with multiplicative noise via the new Jacobi elliptic function expansion method</u></i>. <font color="green">Mathematics</font>  (20 Nov 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/Stochastic soliton dynamics.pdf">[PDF]</a></li></p>  
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA' 2]</b></font> Yi Li, Huiying Xu*, Yiming Sun, Pengfei Zhu, Lingling Xu, <b>Xinzhong Zhu</b>: <i><u>KSCNet: Exploring KAN and state space model collaboration network for small object detection from UAV imagery</u></i>. <font color="green">Expert Systems With Applications</font>  (28 Oct 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/KSCNet.pdf">[PDF]</a></li></p>  
     
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Scientific Reports' 1]</b></font> Nafissa T. Trouba, Huiying Xu*, Mohamed E. M. Alngar*, Reham M. A.Shohib,  Mohammed El-Meligy, <b>Xinzhong Zhu</b>, Mohamed Sharaf: <i><u>Optical soliton solutions of the stochastic generalized nonlinear Schrödinger equation with arbitrary refractive index in Itô sense</u></i>. <font color="green">Scientific Reports</font>  (Oct 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/Optical soliton solutions.pdf">[PDF]</a></li></p>  
