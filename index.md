@@ -240,7 +240,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
     <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Happy-LLM</b></font> <i><u>:A Tutorial on the Principles and Practices of Large Language Models Starting from Scratch</u></i>. <a href = "https://github.com/datawhalechina/happy-llm">[Github Link]</a> <a href = "https://github.com/HZAI-ZJNU/happy-llm-ppt">[PPT Link]</a>  <a href = "https://xinzhongzhu.github.io/document/happy-llm-ppt.zip">[PPT zip]</a>  <font face="verdana" color="red"><b>Thank you to the official account of CCF (China Computer Federation) for the recommendation!</b></font><a href = "https://mp.weixin.qq.com/s/P03f3e2vUUh7OxDP40Ra6w">[Link]</a>  </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Happy-LLM</b></font> <i><u>:A Tutorial on the Principles and Practices of Large Language Models Starting from Scratch</u></i>. <a href = "https://github.com/datawhalechina/happy-llm">[Github Link]</a> <a href = "https://github.com/HZAI-ZJNU/happy-llm-ppt">[PPT Link]</a>  <a href = "https://github.com/HZAI-ZJNU/happy-llm-ppt/raw/refs/heads/main/happy-llm-ppt.zip?download=">[PPT zip]</a>  <font face="verdana" color="red"><b>Thank you to the official account of CCF (China Computer Federation) for the recommendation!</b></font><a href = "https://mp.weixin.qq.com/s/P03f3e2vUUh7OxDP40Ra6w">[Link]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Hello-Agents</b></font> <i><u>:A systematic tutorial on agent learning</u></i>. <a href = "https://datawhalechina.github.io/hello-agents/#/">[Github Link]</a></li></p>
   
