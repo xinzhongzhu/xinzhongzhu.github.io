@@ -16,7 +16,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS' 2]</b></font> Minghao Li, Huiying Xu*, Ziying Wang, Hechuan Lin, Xiaolei Zhang*, <b>Xinzhong Zhu*</b>: <i><u>Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data</u></i>. <font color="green">Knowledge-Based Systems</font> (28 Feb 2026) (SCI Q1/中科院1区TOP) <a href = "https://xinzhongzhu.github.io/document/Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS' 2]</b></font> Minghao Li#, Huiying Xu#*, Ziying Wang, Hechuan Lin, Xiaolei Zhang*, <b>Xinzhong Zhu*</b>: <i><u>Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data</u></i>. <font color="green">Knowledge-Based Systems</font> (28 Feb 2026) (SCI Q1/中科院1区TOP) <a href = "https://xinzhongzhu.github.io/document/Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data.pdf">[PDF]</a> (# Equal contribution)   </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS' 1]</b></font> Qian Chen#, Huiying Xu*#, Ruidong Wang, Yue Liu, <b>Xinzhong Zhu*</b>: <i><u>Structure adversarial augmented graph anomaly detection via multi-view contrastive learning</u></i>. <font color="green">Knowledge-Based Systems</font> (1 Feb 2026) (SCI Q1/中科院1区TOP) <a href = "https://xinzhongzhu.github.io/document/Structure adversarial augmented graph anomaly detection via multi-view contrastive learning.pdf">[PDF]</a>  (# Equal contribution) </li></p> 
 
