@@ -259,9 +259,9 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
     <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Happy-LLM</b></font> <i><u>:A Tutorial on the Principles and Practices of Large Language Models Starting from Scratch</u></i>. <a href = "https://github.com/datawhalechina/happy-llm">[Github Link]</a> <a href = "https://github.com/HZAI-ZJNU/happy-llm-ppt">[PPT Link]</a>  <a href = "https://github.com/HZAI-ZJNU/happy-llm-ppt/raw/refs/heads/main/happy-llm-ppt.zip?download=">[PPT zip]</a>  <font face="verdana" color="red"><b>Thank you to the official account of CCF (China Computer Federation) for the recommendation!</b></font><a href = "https://mp.weixin.qq.com/s/P03f3e2vUUh7OxDP40Ra6w">[Link]</a>  </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Happy-LLM</b></font> <i><u>: A Tutorial on the Principles and Practices of Large Language Models Starting from Scratch</u></i>. <a href = "https://github.com/datawhalechina/happy-llm">[Github Link]</a> <a href = "https://github.com/HZAI-ZJNU/happy-llm-ppt">[PPT Link]</a>  <a href = "https://github.com/HZAI-ZJNU/happy-llm-ppt/raw/refs/heads/main/happy-llm-ppt.zip?download=">[PPT zip]</a>  <font face="verdana" color="red"><b>Thank you to the official account of CCF (China Computer Federation) for the recommendation!</b></font><a href = "https://mp.weixin.qq.com/s/P03f3e2vUUh7OxDP40Ra6w">[Link]</a> <font face="verdana" color="green"><b> You can purchase books by clicking on the link. </b></font><a href = "http://product.dangdang.com/30067167.html">[Dangdang Link]</a> <a href = "https://e.jd.com/30949158.html">[Jingdong Link]</a> <i><u>Also you can click on the following link and scan the QR code to apply for the special edition book giveaway!</u></i> </li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Hello-Agents</b></font> <i><u>:A systematic tutorial on agent learning</u></i>. <a href = "https://datawhalechina.github.io/hello-agents/#/">[Github Link]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Hello-Agents</b></font> <i><u>: A systematic tutorial on agent learning</u></i>. <a href = "https://datawhalechina.github.io/hello-agents/#/">[Github Link]</a></li></p>
   
 
 
