@@ -263,7 +263,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>Hello-Agents</b></font> <i><u>: A systematic tutorial on agent learning</u></i> <a href = "https://datawhalechina.github.io/hello-agents/#/">[Github Link]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>The Twin Manufacturing Service Theory and Technology from the Perspective of New Quality Productivity</b></font> <i><u>Click on the link and you can view the cover of the book.</u></i> <a href = "https://xinzhongzhu.github.io/document/xinzhi.jpg">[Link] <font face="verdana" color="green"><b> You can purchase books by clicking on the link. </b></font><a href = "https://product.dangdang.com/30065983.html">[Dangdang Link]</a> </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>The Twin Manufacturing Service Theory and Technology from the Perspective of New Quality Productivity</b></font> <i><u>Click on the link and you can view the cover of the book.</u></i> <a href = "https://xinzhongzhu.github.io/document/xinzhi.jpg">[Link] <font face="verdana" color="green"><b> You can purchase books by clicking on the link. </b></font>  <a href = "https://product.dangdang.com/30065983.html">[Dangdang Link]</a> </li></p>
 
 
 
