@@ -21,6 +21,8 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Displays' 1]</b></font> Ziqing He, Longfei Wang, Huiying Xu#*, <b>Xinzhong Zhu</b>, Wouladje Cabrel, Golden Tendekai Mumanikidzwa: <i><u> A multi-task visual framework: Geometry-guided UAV crowd counting and localization for media practice</u></i>. <font color="green"> Displays</font> (30 April 2026) (SCI Q2/中科院2区) <a href = "https://xinzhongzhu.github.io/document/ A multi-task visual framework Geometry-guided UAV crowd counting andlocalization for media practice.pdf">[PDF]</a>  </li></p>
+
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AEI' 1]</b></font> Yi Li#, Huiying Xu#*, <b>Xinzhong Zhu</b>, Hongbo Li*, Yiming Sun, Ruidong Wang, Lingling Xu: <i><u>IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection</u></i>. <font color="green">Advanced Engineering Informatics</font> (26 Mar 2026) (SCI Q1/中科院1区TOP) <a href = "https://xinzhongzhu.github.io/document/IPeDet-AEI.pdf">[PDF]</a>  (# Equal contribution)  </li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS' 2]</b></font> Minghao Li#, Huiying Xu#*, Ziying Wang, Hechuan Lin, Xiaolei Zhang*, <b>Xinzhong Zhu*</b>: <i><u>Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data</u></i>. <font color="green">Knowledge-Based Systems</font> (28 Feb 2026) (SCI Q1/中科院1区TOP) <a href = "https://xinzhongzhu.github.io/document/Semideﬁnite program-inspired continuous relaxation robust multi-view clustering for large-scale data.pdf">[PDF]</a> (# Equal contribution)   </li></p>
@@ -170,6 +172,10 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <summary><font size="6"><b>Selected Conference Papers</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
   <p>
     <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSAI' 1]</b></font> Chaoqun Li, Longfei Wang, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u> Data-Driven Instructional Management in Informatized Education: Threshold and Lag Effects of Online Learning Engagement</u></i>. <font color="green"> 2026 3rd International Conference on Digital Society and Artificial Intelligence </font> (EI) <a href = "https://xinzhongzhu.github.io/document/ RICAI 2025-Media_Practice-Driven_Technology_Iteration_and_Value_Realization_A_Framework_Study_on_Geometry-Guided_UAV_Crowd_Counting.pdf">[PDF]</a> </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[RICAI' 2]</b></font> Ziqing He, Longfei Wang, Huiying Xu*, <b>Xinzhong Zhu</b>, Jiaxiao Xiong: <i><u> Media Practice-Driven Technology Iteration and Value Realization: A Framework Study on Geometry-Guided UAV Crowd Counting</u></i>. <font color="green"> 2025 7th International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI)</font> (EI) <a href = "https://xinzhongzhu.github.io/document/ RICAI 2025-Media_Practice-Driven_Technology_Iteration_and_Value_Realization_A_Framework_Study_on_Geometry-Guided_UAV_Crowd_Counting.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NeurIPS' 2]</b></font> Chen Li#, Huiying Xu#, Changxin Gao*, Zeyu Wang, Yun Liu, <b>Xinzhong Zhu</b>: <i><u>Towards Single-Source Domain Generalized Object Detection via Causal Visual Prompts</u></i>. (# Equal contribution)  <font color="green">NeurIPS 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/Towards Single-Source Domain Generalized Object.pdf">[PDF]</a>  </li></p>
 
