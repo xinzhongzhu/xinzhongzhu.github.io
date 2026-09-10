@@ -21,9 +21,21 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA' 3]</b></font> Hanjiang Lin, Huiying Xu*, Hongbo Li*, Wenjie Wang, Wenzhe Tan, Tao Guan, Chao Chen, Zhendong Chen, Yuexiang Zhang, Yanxue Liang, <b>Xinzhong Zhu*</b>, Huiling Chen, Xinwang Liu, Yun Liu, Chang Tang, Zhendong Chen, Miaomiao Li, Shanfu Lu, Yue Hu: <i><u>LiquidSR: Lightweight image super-resolution via liquid ODE-based adaptive feature update</u></i>. <font color="green"> Expert Systems With Applications </font> (28 Aug 2026) (SCI Q1/中科院1区Top) <a href = "https://xinzhongzhu.github.io/document/LiquidSR Lightweight image super-resolution via liquid ODE-based adaptive feature update.pdf">[PDF]</a>  </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Sensors' 1]</b></font> Wenjie Wang, Qian Chen, Huiying Xu*, Zhendong Chen, Longfei Wang, Deang Su, <b>Xinzhong Zhu*</b>: <i><u>Event-Triggered Adaptive Consensus Control for Nonlinear Multi-Agent Systems with Prescribed Performance and Full-State Constraints</u></i>. <font color="green"> Sensors</font> (2 Aug 2026) (SCI Q2/中科院3区) <a href = "https://xinzhongzhu.github.io/document/Event-Triggered Adaptive Consensus Control for Nonlinear Multi-Agent Systems with Prescribed Performance and Full-State Constraints.pdf">[PDF]</a>  </li></p>  
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ Front. Robot. AI ' 1]</b></font> Chaoqun Li, Longfei Wang, Huiying Xu*, Zhenglong Wan <b>Xinzhong Zhu</b>: <i><u>Object-grounded embodied picking for e-commerce warehouse fulfillment: a foveated diffusion policy for operational robustness</u></i>. <font color="green"> Frontiers In Robotics And AI </font> (30 Jul 2026) (SCI Q2/中科院3区) <a href = "https://xinzhongzhu.github.io/document/Object-grounded embodied picking for e-commerce warehouse fulfillment a foveated diffusion policy for operational robustness.pdf">[PDF]</a>  </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TAES' 1]</b></font> Bangxin Jiang; Siyao Chen; Shuting Sun; <b>Xinzhong Zhu</b>; Yang Liu: <i><u>Intermittent Control of Multi-Agent Systems With Delayed Impulses: Application to Quadrotor UAVs</u></i>. <font color="green"> IEEE Transactions on Aerospace and Electronic Systems </font> (29 Jul 2026) (SCI Q1/中科院2区) <a href = "https://xinzhongzhu.github.io/document/Intermittent_Control_of_Multi-Agent_Systems_With_Delayed_Impulses_Application_to_Quadrotor_UAVs.pdf">[PDF]</a>  </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TM' 1]</b></font> Shihao Dong; Qingyao Lin; Yuhui Zheng; Huiying Xu; <b>Xinzhong Zhu</b>: <i><u>Text-Guided Image Clustering With Unsupervised Dual-Level Knowledge Distillation</u></i>. <font color="green"> IEEE Transactions on Multimedia</font> (29 Jul 2026) (SCI Q1/中科院1区) <a href = "https://xinzhongzhu.github.io/document/Text-Guided_Image_Clustering_With_Unsupervised_Dual-Level_Knowledge_Distillation.pdf">[PDF]</a>  </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PLOS ONE' 1]</b></font> Ziqiao Ding, Hanjiang Lin, Huiying Xu*, Xiaolei Zhang, <b>Xinzhong Zhu</b>: <i><u>Embodied intelligence-driven adaptive collaboration in supply chains: A four-dimensional synergy framework and mechanism analysis</u></i>. <font color="green"> PLOS ONE </font> (9 Jun 2026) (SCI Q2/中科院3区) <a href = "https://xinzhongzhu.github.io/document/Embodied intelligence driven adaptive collaboration in supply chains.pdf">[PDF]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[symmetry' 1]</b></font> Ruibin Hu, Qian Chen, Huiying Xu*, Ruidong Wang, Huazhen Jin*, Xiao Huang, <b>Xinzhong Zhu</b>: <i><u>Global-Local Complementary Fusion: Unsupervised Graph Anomaly Detection via Diffusion Reconstruction and Contrastive Learning</u></i>. <font color="green">symmetry</font> (3 Jun 2026) (SCI Q2/中科院3区) <a href = "https://xinzhongzhu.github.io/document/Global Local Complementary Fusion.pdf">[PDF]</a>  </li></p>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TPAMI' 4]</b></font> Zhenglai Li; Jun Wang; Chang Tang*; <b>Xinzhong Zhu</b>; Wei Zhang; Xinwang Liu: <i><u>Balanced Multi-View Clustering</u></i>. <font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence </font> (29 Apr 2026) (SCI Q1/中科院1区Top) <a href = "https://xinzhongzhu.github.io/document/Balanced_Multi-View_Clustering.pdf">[PDF]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Sustainability' 1]</b></font> Hanzi Zhu, Xin Jiang, Xiaolei Zhang, Huiying Xu*, Deang Su, Zhendong Chen, <b>Xinzhong Zhu</b>: <i><u>Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era</u></i>. <font color="green">Sustainability</font> (2 Apr 2026) (SCI Q1/中科院3区) <a href = "https://xinzhongzhu.github.io/document/Fostering Sustainable Learning via Embodied Intelligence.pdf">[PDF]</a>  </li></p>
 
@@ -38,6 +50,10 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE TSIP' 1]</b></font> Liang Xi*, Runze Li, Dichen Li, Ruidong Wang, Han Liu, Huiying Xu, <b>Xinzhong Zhu</b>: <i><u> DuDi: Dual-Scope Discrepancy-Aware Attributed Network Anomaly Detection</u></i>. <font color="green"> IEEE TRANSACTIONS ON SIGNAL AND INFORMATION PROCESSING OVER NETWORKS </font> (11 Feb 2026) (SCI Q1/中科院2区) <a href = "https://xinzhongzhu.github.io/document/DuDi.pdf">[PDF]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSP' 3]</b></font> Mingquan Wang, Huiying Xu*, Yiming Sun, Hongbo Li, Zeyu Wang, Yi Li, Ruidong Wang, <b>Xinzhong Zhu</b>: <i><u> EMFNet: An efficient multi-scale fusion network for UAV small object detection </u></i>. <font color="green"> Digital Signal Processing </font> (27 Jan 2026) (SCI Q1/中科院3区) <a href = "https://xinzhongzhu.github.io/document/EMFNet.pdf">[PDF]</a>  </li></p>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JBHI' 1]</b></font> Chengcheng Li, Huiying Xu*, <b>Xinzhong Zhu*</b>, Huiling Chen, Xinwang Liu, Yun Liu, Chang Tang, Zhendong Chen, Miaomiao Li, Shanfu Lu, Yue Hu: <i><u>HCA-Net: Hierarchical Contextual Attention Network for Lightweight and Accurate Polyp Segmentation</u></i>. <font color="green"> IEEE Journal of Biomedical and Health Informatics </font> (26 Jan 2026) (SCI Q1/中科院2区Top) <a href = "https://xinzhongzhu.github.io/document/HCA-Net_Hierarchical_Contextual_Attention_Network_for_Lightweight_and_Accurate_Polyp_Segmentation.pdf">[PDF]</a>  </li></p>
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSP' 2]</b></font> Yue Chen#, Huiying Xu#*, <b>Xinzhong Zhu*</b>, Xuedong He, Hongbo Li*, Yi Li: <i><u> FETrack: One-stream framework-based feature enhancement for object tracking </u></i>. <font color="green"> Digital Signal Processing </font> (22 Jan 2026) (SCI Q1/中科院3区) <a href = "https://xinzhongzhu.github.io/document/FETrack.pdf">[PDF]</a> (# Equal contribution) </li></p>
 
@@ -191,6 +207,12 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <summary><font size="6"><b>Selected Conference Papers</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
   <p>
     <ol>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 5]</b></font> Jinkai Yao; Jiaze Jin; Huiying Xu*; Zeyu Wang; <b>Xinzhong Zhu</b>; Hongbo Li: <i><u> ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </font> (Apr 2026) (CCF-B) <a href = "https://xinzhongzhu.github.io/document/Dynamic_State_Space_Models_For_Cross__Modality_Fusion.pdf">[PDF]</a>  </li></p>
+
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ NNICE' 1]</b></font> Yuxing Chen; Huiying Xu*; Zhendong Chen; Yue Hu; <b>Xinzhong Zhu</b>: <i><u>FMDiffBTS: A Lightweight Frequency-decoupled Mamba Diffusion Network for 3D Brain Tumor Segmentation</u></i>. <font color="green"> 2026 6th International Conference on Neural Networks, Information and Communication Engineering (NNICE) </font> (Apr 2026) (EI) <a href = "https://xinzhongzhu.github.io/document/FMDiffBTS_A_Lightweight_Frequency-decoupled_Mamba_Diffusion_Network_for_3D_Brain_Tumor_Segmentation.pdf">[PDF]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSAI' 1]</b></font> Chaoqun Li, Longfei Wang, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u> Data-Driven Instructional Management in Informatized Education: Threshold and Lag Effects of Online Learning Engagement</u></i>. <font color="green"> 2026 3rd International Conference on Digital Society and Artificial Intelligence </font> (EI) <a href = "https://xinzhongzhu.github.io/document/Data-Driven Instructional Management in Informatized Education Threshold and Lag Effects of Online Learning Engagement.pdf">[PDF]</a> </li></p>
 
