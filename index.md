@@ -21,7 +21,7 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
   <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA' 3]</b></font> Hanjiang Lin, Huiying Xu*, Hongbo Li*, Wenjie Wang, Wenzhe Tan, Tao Guan, Chao Chen, Zhendong Chen, Yuexiang Zhang, Yanxue Liang, <b>Xinzhong Zhu*</b>, Huiling Chen, Xinwang Liu, Yun Liu, Chang Tang, Zhendong Chen, Miaomiao Li, Shanfu Lu, Yue Hu: <i><u>LiquidSR: Lightweight image super-resolution via liquid ODE-based adaptive feature update</u></i>. <font color="green"> Expert Systems With Applications </font> (28 Aug 2026) (SCI Q1/中科院1区Top) <a href = "https://xinzhongzhu.github.io/document/LiquidSR Lightweight image super-resolution via liquid ODE-based adaptive feature update.pdf">[PDF]</a>  </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA' 3]</b></font> Hanjiang Lin, Huiying Xu*, Hongbo Li*, Wenjie Wang, Wenzhe Tan, Tao Guan, Chao Chen, Zhendong Chen, Yuexiang Zhang, Yanxue Liang, <b>Xinzhong Zhu*</b>, Huiling Chen, Xinwang Liu, Yun Liu, Chang Tang, Zhendong Chen, Miaomiao Li, Shanfu Lu, Yue Hu: <i><u>LiquidSR: Lightweight image super-resolution via liquid ODE-based adaptive feature update</u></i>. <font color="green"> <b>Expert Systems With Applications</b> </font> (28 Aug 2026) (SCI Q1/中科院1区Top) <a href = "https://xinzhongzhu.github.io/document/LiquidSR Lightweight image super-resolution via liquid ODE-based adaptive feature update.pdf">[PDF]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ISPRS' 2]</b></font>Cabrel Wouladje, Golden Tendekai Mumanikidzwa, Huiying Xu, Hongbo Li, Yanchao Wang, Mantang Liu, Wenjie Wang, Wenzhe Tan, Zhendong Chen, Longfei Wang, Kangjia Dai, Zhenglong Wang, <b>Xinzhong Zhu*</b>: <i><u>DUAG-C: Decentralized uncertainty-aware Gaussian consensus for multi-robot dense mapping</u></i>. <font color="green"> ISPRS Journal of Photogrammetry and Remote Sensing</font> (23 Aug 2026) (SCI Q1/中科院1区Top) <a href = "https://xinzhongzhu.github.io/document/DUAG-C.pdf">[PDF]</a>  </li></p>
 
@@ -214,8 +214,6 @@ Please drop me a message by email: <u>zxz@zjnu.edu.cn</u> or <u>zxz@ci-xing.com<
   <p>
     <ol>
 
-
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 5]</b></font> Jinkai Yao; Jiaze Jin; Huiying Xu*; Zeyu Wang; <b>Xinzhong Zhu</b>; Hongbo Li: <i><u> ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </font> (Apr 2026) (CCF-B) <a href = "https://xinzhongzhu.github.io/document/Dynamic_State_Space_Models_For_Cross__Modality_Fusion.pdf">[PDF]</a>  </li></p>
 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[NNICE' 1]</b></font> Yuxing Chen; Huiying Xu*; Zhendong Chen; Yue Hu; <b>Xinzhong Zhu</b>: <i><u>FMDiffBTS: A Lightweight Frequency-decoupled Mamba Diffusion Network for 3D Brain Tumor Segmentation</u></i>. <font color="green"> 2026 6th International Conference on Neural Networks, Information and Communication Engineering (NNICE) </font> (Apr 2026) (EI) <a href = "https://xinzhongzhu.github.io/document/FMDiffBTS_A_Lightweight_Frequency-decoupled_Mamba_Diffusion_Network_for_3D_Brain_Tumor_Segmentation.pdf">[PDF]</a>  </li></p>
